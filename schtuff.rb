@@ -1,6 +1,8 @@
+forgot a header
+
 A good starter
 
-with no typograpical errors
+with no typographical errors
 
 
 heres things
