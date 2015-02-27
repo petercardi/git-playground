@@ -1,2 +1,10 @@
 This file is so awesome!
 totes awesome, srsly.
+
+
+Oh dear we've gone off the rails here
+
+
+Found the plot again here
+and here
+# binding.pry
